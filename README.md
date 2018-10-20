@@ -50,7 +50,7 @@ Functionality Ideas:
     <ls>Implement User control from the alexa  </ls>
       <ul><ls>The commands needed to get travel information  </ls>
         <ul><ls>How far away  </ls>
-        <ls>Categories ("old","sight-seeing", "art", etc.)  </ls>
+        <ls>Categories ("old","sight-seeing", "art", etc.)  </ls>  
         <ls>Alexa Intents  </ls></ul>
       </ul>
 </ul>  
