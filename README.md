@@ -41,7 +41,7 @@ Functionality Ideas:
     <ul><ls>Get local destiniations</ls></br>
       <ls>Sort these destination to the most likely to be wanted</ls></br>
       <ls>Build a path from current location to somewhere else  </ls></br>
-        <ul><ls>Find intresting destinations on path*  </ls></ul></br>
+        <ul><ls>Find intresting destinations on path*  </ls></ul>
       <ls>Send directions to users phone*</ls></ul></br>
     <ls>Implement Alexa API:  </ls></br>
       <ul><ls>Take in user information </ls> </br>
