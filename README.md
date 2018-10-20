@@ -5,3 +5,6 @@ Members:
 Jordan Voss
 Parker ---
 ----
+
+Idea: Travel Planning App for Google Home/Alexa
+  
