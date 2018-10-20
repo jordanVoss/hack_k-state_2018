@@ -19,3 +19,10 @@ Functionality Ideas:
     
   Stretch Goals:
     2.2
+    
+  Whats Needed:
+    Find database of locations to visit
+      Possibly make one by scraping information off of a website
+    Get the google home API to work
+      Get the Alexa API to work
+    Work with the google maps API
