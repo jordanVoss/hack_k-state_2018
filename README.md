@@ -26,3 +26,10 @@ Functionality Ideas:
     Get the google home API to work
       Get the Alexa API to work
     Work with the google maps API
+    
+    
+    
+  API Sources:
+    Get paces from google maps: https://github.com/slimkrazy/python-google-places
+    
+    Alexa interaction: https://github.com/alexa/alexa-skills-kit-sdk-for-python
