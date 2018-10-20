@@ -36,22 +36,22 @@ Functionality Ideas:
    
    
 <ul>
-  <ls>TODO:  </ls>
-  <ls>Implement Google Maps API:</ls>
-    <ul><ls>Get local destiniations</ls>
-      <ls>Sort these destination to the most likely to be wanted</ls>
-      <ls>Build a path from current location to somewhere else  </ls>
-        <ul><ls>Find intresting destinations on path*  </ls></ul>
-      <ls>Send directions to users phone*</ls></ul>
-    <ls>Implement Alexa API:  </ls>
-      <ul><ls>Take in user information </ls> 
-      <ls>Send the information to the Google Maps controller </ls> 
-      <ls>Respond to the user </ls></ul> 
-    <ls>Implement User control from the alexa  </ls>
-      <ul><ls>The commands needed to get travel information  </ls>
+  <ls>TODO:  </ls></br>
+  <ls>Implement Google Maps API:</ls></br>
+    <ul><ls>Get local destiniations</ls></br>
+      <ls>Sort these destination to the most likely to be wanted</ls></br>
+      <ls>Build a path from current location to somewhere else  </ls></br>
+        <ul><ls>Find intresting destinations on path*  </ls></ul></br>
+      <ls>Send directions to users phone*</ls></ul></br>
+    <ls>Implement Alexa API:  </ls></br>
+      <ul><ls>Take in user information </ls> </br>
+      <ls>Send the information to the Google Maps controller </ls></br> 
+      <ls>Respond to the user </ls></ul> </br>
+    <ls>Implement User control from the alexa  </ls></br>
+      <ul><ls>The commands needed to get travel information  </ls></br>
         <ul><ls>How far away  </ls>
-        <ls>Categories ("old","sight-seeing", "art", etc.)  </ls>  
-        <ls>Alexa Intents  </ls></ul>
+        <ls>Categories ("old","sight-seeing", "art", etc.)  </ls>  </br>
+        <ls>Alexa Intents  </ls></ul></br>
       </ul>
 </ul>  
   * items are stretch goals  
