@@ -33,3 +33,23 @@ Functionality Ideas:
     Get paces from google maps: https://github.com/slimkrazy/python-google-places
     
     Alexa interaction: https://github.com/alexa/alexa-skills-kit-sdk-for-python
+    
+  TODO:
+    Implement Google Maps API:
+      Get local destiniations
+      Sort these destination to the most likely to be wnated
+      Build a path from current location to somewhere else
+        Find intresting destinations on path*
+      Send directions to users phone*
+    Implement Alexa API:
+      Take in user information
+      Send the information to the Google Maps controller
+      Respond to the user
+    Implement User control from the alexa
+      The commands needed to get travel information
+        How far away
+        Categories ("old","sight-seeing", "art", etc.)
+        Alexa Intents
+  * items are stretch goals
+  
+  
