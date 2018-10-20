@@ -58,3 +58,24 @@ Functionality Ideas:
   * items are stretch goals  
   
   
+  Commands and what they do: </br>
+  <ul>
+    <ls>Tell me local destinations</ls>
+      <ul>
+        <ls>Alexa: How far are you willing to travel?</ls></br>
+        <ls>Alexa: What kinds of things do you want to do?</ls></br>
+          <ul><ls> Ask the server for destinations matching the description given in X miles</ls></ul>
+      </ul>
+    <ls>Send me directions to [destination] from [origin]</ls>
+      <ul>
+        <ls>Alexa: The directions have been sent to your Alexa app. Your estimated travel time is [time]</ls></br>
+      </ul>
+      
+    <ls>Give me interesting stops on my way to [destination] from [origin]</ls>
+      <ul>
+        <ls>Alexa: What kinds of things do you want to do?</ls></br>
+        <ls>Alexa: Here are some possible destinations [destList]. Which ones would you like to add to your trip?</ls></br>
+        <ls>Alexa: The directions have been sent to your Alexa app.</ls></br>
+      </ul>
+  </ul>
+  
