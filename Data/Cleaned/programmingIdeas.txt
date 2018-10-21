@@ -1,0 +1,94 @@
+Reverse a String 
+Pig Latin 
+Count Vowels 
+Count Words in a String 
+Text Editor 
+RSS Feed Creator 
+Post it Notes Program 
+Quote Tracker (market symbols etc) 
+Guestbook / Journal 
+News Ticker and Game Scores 
+Fortune Teller (Horoscope) 
+Vigenere / Vernam / Ceasar Ciphers 
+Random Gift Suggestions 
+Text to HTML Generator 
+CD Key Generator 
+Regex Query Tool 
+FTP Program 
+Get Atomic Time from Internet Clock 
+Chat Application (IRC or MSN Style) 
+Fetch Current Weather 
+P2P File Sharing App 
+Port Scanner 
+Mail Checker (POP3 / IMAP) 
+Packet Sniffer 
+Country from IP Lookup 
+Whois Search Tool 
+Zip / Postal Code Lookup 
+Remote Login 
+Site Checker with Time Scheduling 
+Small Web Server 
+Web Bot 
+Product Inventory Project 
+Movie Store 
+Airline / Hotel Reservation System 
+Student Grade Book Application 
+Library Catalog 
+Create A Progress Bar for Downloads 
+Bulk Thumbnail Creator 
+WYSIWG (What you see is what you get) Editor 
+File Downloader 
+Telnet Application 
+Online White Board 
+Bandwidth Monitor 
+Bookmark Collector and Sorter 
+Password Safe 
+Media Player Widget for iGoogle 
+Text Based Game Like Utopia 
+Scheduled Auto Login and Action 
+E
+Content Management System 
+Template Maker 
+CAPTCHA Maker 
+Quiz Maker 
+Quick Launcher 
+File Explorer 
+Sort File Records Utility 
+Add Transactions In File and Find Averages 
+Create Zip File Maker 
+PDF Generator 
+Log File Maker 
+Excel Spreadsheet Exporter 
+Image Map Generator 
+File Copy Utility 
+Code Snippet Manager 
+Versioning Manager 
+SQL Query Analyzer 
+Remote SQL Tool 
+Baseball / Other Card Collector 
+Report Generator 
+Event Scheduler and Calendar 
+Address Book 
+Travel Planner System 
+Entity Relationship Diagram (ERD) Creator 
+Database Translation (MySQL <
+Web Board (Forum) 
+Slide Show 
+Mind Mapper 
+Import Picture and Save as Grayscale 
+Stream Video from Online 
+Mp3 Player (and Other Formats) 
+Bulk Picture Manipulator 
+CD Burning App 
+YouTube Downloader 
+Wallpaper Manager 
+Screen Capture Program 
+Image Browser 
+MP3 to Wav Converter 
+Signature Maker 
+Screen Saver 
+Watermarking Application 
+Chess and Checkers 
+Hangman 
+Crossword Puzzle 
+Frogger 

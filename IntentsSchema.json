@@ -1,0 +1,174 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "get project ideas",
+            "intents": [
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": [
+                        "goodbye",
+                        "im done",
+                        "end",
+                        "leave",
+                        "cancel"
+                    ]
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "YesIntent",
+                    "slots": [],
+                    "samples": [
+                        "Please",
+                        "Yup",
+                        "Yes"
+                    ]
+                },
+                {
+                    "name": "NoIntent",
+                    "slots": [],
+                    "samples": [
+                        "Nope",
+                        "No"
+                    ]
+                },
+                {
+                    "name": "TestConnectionIntent",
+                    "slots": [],
+                    "samples": [
+                        "are you working",
+                        "can you reach the server",
+                        "are you connected",
+                        "test connection",
+                        "Test"
+                    ]
+                },
+                {
+                    "name": "ProgrammingIdeaIntent",
+                    "slots": [],
+                    "samples": [
+                        "computer idea",
+                        "coding idea",
+                        "computer project",
+                        "coding project",
+                        "coding",
+                        "Programming idea",
+                        "Programming",
+                        "I want to program"
+                    ]
+                },
+                {
+                    "name": "WorldNewsIntent",
+                    "slots": [],
+                    "samples": [
+                        "News",
+                        "Give me a news update",
+                        "Whats happenign in the world right now",
+                        "I want the world news",
+                        "Tell me the news"
+                    ]
+                },
+                {
+                    "name": "ListPossibilitiesIntent",
+                    "slots": [],
+                    "samples": [
+                        "List your functions",
+                        "I need help",
+                        "What are your abilities",
+                        "What can you do",
+                        "List",
+                        "Help"
+                    ]
+                },
+                {
+                    "name": "ComplimentIntent",
+                    "slots": [],
+                    "samples": [
+                        "you're kind",
+                        "that was nice",
+                        "your the best",
+                        "your helpful",
+                        "your fun",
+                        "your kind",
+                        "we should talk more often",
+                        "im enjoying myself",
+                        "this is fun",
+                        "Youre so realistic",
+                        "this is great",
+                        "Your my friend",
+                        "I enjoy talking to you",
+                        "this is so much fun",
+                        "youre the best",
+                        "your the nicest",
+                        "I love you",
+                        "You're wonderful"
+                    ]
+                },
+                {
+                    "name": "GetComplimentIntent",
+                    "slots": [],
+                    "samples": [
+                        "it's been a rough day",
+                        "say something nice about me",
+                        "compliment me",
+                        "what do you think of me",
+                        "i'm sad",
+                        "say something nice",
+                        "I need a pick-me-up",
+                        "Can you compliment me"
+                    ]
+                },
+                {
+                    "name": "InsultIntent",
+                    "slots": [],
+                    "samples": [
+                        "your bad at conversations",
+                        "your a bad bot",
+                        "Would you shut up",
+                        "I don't like you",
+                        "you're dumb",
+                        "useless",
+                        "you're not realistic",
+                        "I hate you"
+                    ]
+                },
+                {
+                    "name": "GetInultIntent",
+                    "slots": [],
+                    "samples": [
+                        "try to hurt my feelings",
+                        "be mean to me",
+                        "be mean",
+                        "say something mean",
+                        "Insult me"
+                    ]
+                },
+                {
+                    "name": "ThankedIntent",
+                    "slots": [],
+                    "samples": [
+                        "thanks for the help",
+                        "That was very helpful thank you",
+                        "thanks",
+                        "Thank you"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
